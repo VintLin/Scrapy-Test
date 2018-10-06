@@ -1,0 +1,9 @@
+创建项目
+scrapy startproject <projectname>
+
+开始项目
+scrapy crawl  <projectname>
+
+调试页面,编辑xpath css re时使用
+scrapy shell <pageurl>
+
